@@ -1,5 +1,5 @@
 Privacy Policy
-Mobile App: DreamQuest Saving Planner 
+Mobile App: DreamQuest Saving Planner, 
 Last updated: December 2025
 
 This Privacy Policy explains how this application (“the App”) collects, uses, and protects user information.
